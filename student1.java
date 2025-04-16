@@ -1,8 +1,9 @@
-public class student {
-    int rollno;
+package jenkins1;
+
+public class student1 { int rollno;
     String name;
     float fee;
-    student(int rollno,String name,float fee)
+    student1(int rollno,String name,float fee)
     {
         rollno=rollno;
         name=name;
@@ -14,3 +15,5 @@ public class student {
     }
 }
     
+    
+}
